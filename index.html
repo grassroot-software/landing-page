@@ -137,7 +137,7 @@
                     <div class="container g-text-center--xs g-ver-center--xs">
                         <div class="g-margin-b-30--xs">
                             <div class="g-margin-b-30--xs">
-                                <h2 class="g-font-size-35--xs g-font-size-45--sm g-font-size-55--md g-color--white">Become and international software developer and get remote jobs no matter where you live</h2>
+                                <h2 class="g-font-size-35--xs g-font-size-45--sm g-font-size-55--md g-color--white">Become an international software developer and get remote jobs no matter where you live</h2>
                             </div>
                             <a class="js__popup__youtube" href="https://youtu.be/G-RAUC7v7KE" title="Intro Video">
                                 <i class="s-icon s-icon--lg s-icon--white-bg g-radius--circle ti-control-play"></i>
@@ -478,7 +478,7 @@
                 <div class="g-text-center--xs g-margin-b-80--xs"> <br><br><br>
                     <h2 class="g-font-size-32--xs g-font-size-36--md">Come as you are- Leave ready to make a difference in the world</h2> <br>
                     <h2 class="g-font-size-32--xs g-font-size-36--md">Everything begins with an action</h2> <br>
-                <button type="submit" class="text-uppercase s-btn s-btn--md s-btn--primary-bg g-radius--50 g-padding-x-80--xs">Aplly Now</button>
+                <button id="apply" class="text-uppercase s-btn s-btn--md s-btn--primary-bg g-radius--50 g-padding-x-80--xs">Aplly Now</button>
             </div>
         </div>
         <!-- End Feedback Form -->
@@ -581,6 +581,11 @@
 
             const ins = document.querySelector("#ins");
             ins.addEventListener('click', () => {
+                window.location.href = "https://grassroot.academy/sign_up";
+            });
+
+            const apply = document.querySelector("#apply");
+            apply.addEventListener('click', () => {
                 window.location.href = "https://grassroot.academy/sign_up";
             })
         </script>
