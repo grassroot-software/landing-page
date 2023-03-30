@@ -1,10 +1,7 @@
-Author: 		KeenThemes
-Website: 		http://www.keenthemes.com/
-Contact: 		support@keenthemes.com
-Follow: 		http://twitter.com/keenthemes
-Like: 			http://facebook.com/keenthemes
+Author: 		grassroot
+Website: 		http://www.grassroot.academy/
+Contact: 		support@grassroot.academy
+Follow: 		http://twitter.com/grassroot
+Like: 			http://facebook.com/grassroot
 
-Looking for a perfect premium bootstrap admin theme for your project ? You got to check Metronic, our #1 selling admin theme in the market: 
-http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes
-
-Happy coding!  Don't miss a stuff from us - http://twitter.com/keenthemes
+Happy coding!  Don't miss a stuff from us - http://twitter.com/grassroot
